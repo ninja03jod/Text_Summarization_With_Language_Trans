@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain_community
+googletrans==4.0.0rc1
+langchain
+transformers
